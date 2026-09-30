@@ -1,0 +1,10 @@
+*.asv
+*.m~
+*.mat
+*.log
+*.fig
+*.zip
+output/
+tmp/
+Thumbs.db
+.DS_Store
